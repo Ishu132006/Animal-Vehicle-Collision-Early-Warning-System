@@ -1,4 +1,4 @@
-# 🦌 AI-Based Animal–Vehicle Collision Detection and Early Warning System
+# AI-Based Animal–Vehicle Collision Detection and Early Warning System
 
 ## 📌 Project Overview
 
